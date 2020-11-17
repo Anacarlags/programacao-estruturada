@@ -8,18 +8,15 @@ No entanto,<br> um cliente pode possuir mais de uma conta.</p>
 ## Funcionalidades: 
    1 - Cadastrar cliente<br>
    2 – Alterar cliente<br>
-   3–Cadastrar conta<br>
-   4–Alterar conta<br>
-   5–Remover conta<br>
-   6–Mostrar saldo<br>
-   7–Deposito<br>
-   8–Saque<br>
+   3 – Cadastrar conta<br>
+   4 – Alterar conta<br>
+   5 – Remover conta<br>
+   6 – Mostrar saldo<br>
+   7 – Deposito<br>
+   8 – Saque
   
 > Status do Projeto: Concluido :heavy_check_mark:
 
-### Desenvolvedores: 
-[<img src="https://photos.google.com/photo/AF1QipOkcLXHimB4UWCX49zBEjzPnbZQdHRlbOdi3p8a" width=115 > <br> <sub> André Victor</sub>](https://github.com/) |
-| :---: |  
 
 
   
